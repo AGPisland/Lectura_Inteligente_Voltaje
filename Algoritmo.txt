@@ -1,0 +1,4 @@
+activa rele:
+	lectura rapida de valores. 10 segundos, enciende bomba::
+				imprime lectura.
+ 
